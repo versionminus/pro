@@ -76,7 +76,7 @@ const DataExplorer: React.FC = () => {
   return (
     <div className="min-h-screen bg-background text-foreground font-source-code">
       <TopBar />
-      
+
       <div className="pt-20 pb-16 p-8">
         <div className="max-w-7xl mx-auto space-y-6">
           <div className="rounded-lg bg-card border border-border p-6">
